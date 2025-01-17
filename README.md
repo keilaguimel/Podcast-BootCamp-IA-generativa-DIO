@@ -17,4 +17,6 @@ o podcast deve ser curto. não deve ter mais de 5 minutos
 
 o texto gerado foi editado e foi utilizado o https://elevenlabs.io/app/speech-synthesis/text-to-speech para gerar o audio.
 
+Criado em uma parceria entre @keilaguimel e Giovana Fernanda de Camargo
+
 
