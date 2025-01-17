@@ -15,4 +15,6 @@ fáceis de explicação como se estivesse explicando a alguem de 12 anos
 O podcast deve ser apresentado somente por uma pessoa,
 o podcast deve ser curto. não deve ter mais de 5 minutos
 
+o texto gerado foi editado e foi utilizado o https://elevenlabs.io/app/speech-synthesis/text-to-speech para gerar o audio.
+
 
